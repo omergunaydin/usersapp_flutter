@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ![alt text](https://github.com/omergunaydin/usersapp_flutter/blob/master/assets/data/res1.png?raw=true)
+![alt text](https://github.com/omergunaydin/usersapp_flutter/blob/master/assets/data/res2.png?raw=true)
 
 
 ## Getting Started
